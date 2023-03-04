@@ -1,0 +1,267 @@
+[
+  {
+    "created": "2022-04-19T23:39:51.947741Z",
+    "isAdmin": true,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "919a710510ec440faf0b263e811276b4",
+      "name": "BXWIHYBWMZXQ",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/919a710510ec440faf0b263e811276b4/images/profile?aspect_ratio=1%3A1\u0026generated=1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=d934d51e-8fa5-4c28-93cf-53d4581a2d37\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-19T23:41:05.779852Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "80194b9a8cc340a2b9b239eee820bfdf",
+      "name": "Funkmaster Nickity Nick",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/80194b9a8cc340a2b9b239eee820bfdf/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=dd82597f-8f87-46f0-8b00-3683d15c0c07\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-20T03:12:17.113026Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "00c2135305354a06a998955aa743ae5c",
+      "name": "gamdwelf",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/00c2135305354a06a998955aa743ae5c/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=6eedcd29-a576-4e90-929e-c76ff1d9937d\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-21T16:37:34.063332Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "bbe960c9e72b489f946a8a8f017dbc61",
+      "name": "Luu Thai",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/bbe960c9e72b489f946a8a8f017dbc61/images/profile?aspect_ratio=1%3A1\u0026generated=1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=c30fe3b6-b0d4-4f1d-ba64-55980a53bc1a\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-21T23:58:31.43004Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "de69b41ae2f248778a845ac74a123215",
+      "name": "ft. Nickelback ",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/de69b41ae2f248778a845ac74a123215/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=b79616a1-fc2a-4406-879e-d7189acacfc0\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-26T23:59:28.534234Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "6230cf53e638454898f4da269f4bc6e6",
+      "name": "Sad songless simp",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/6230cf53e638454898f4da269f4bc6e6/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=50d8f1df-bae8-4a2e-8dc6-9597f87fe76e\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-04-27T19:04:23.701823Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "dc4956ecc3d24ab48d642968d737376f",
+      "name": "captainconfuzion",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/dc4956ecc3d24ab48d642968d737376f/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=7d8f9424-edca-48a7-be8f-5c78ad23341f\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-05-05T18:46:04.299806Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "d270098526154aa0b78c973a0edf77f5",
+      "name": "emdawg",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/d270098526154aa0b78c973a0edf77f5/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=6a572404-04a1-4319-b44a-a371445c1924\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-05-05T20:16:18.454862Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "02b57fad4cd44b6a85196132e944468f",
+      "name": "Stark",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/02b57fad4cd44b6a85196132e944468f/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=ba386dd1-b7bc-4b6d-9ede-f54ab2b6f024\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-05-12T21:39:31.394067Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "946d9b85e1c84ebe849a35320057e59e",
+      "name": "El Chango",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/946d9b85e1c84ebe849a35320057e59e/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=8a75ff3f-ffd3-45ec-87d3-0d9b0d9625af\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-05-17T05:02:13.722766Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "efb464b96c64471884f24481b464aba7",
+      "name": "ROBERT",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/efb464b96c64471884f24481b464aba7/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=0a5c3050-7642-4942-bca4-cd1c6f7e955b\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-05-31T20:58:40.828586Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "43156cf4121f4213995705f025325bc2",
+      "name": "GG",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/43156cf4121f4213995705f025325bc2/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=f2cdfc2c-96e5-4b67-807b-de392f52614d\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-06-10T01:52:30.798486Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "42b66d0420b74325a6c03ea38b893cbe",
+      "name": "Steven Alfer",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/42b66d0420b74325a6c03ea38b893cbe/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=80bdb3b5-f3ec-406e-b0b3-31f69bbe143a\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-06-26T16:55:10.842665Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "a1fe381135b64d9394a922c8c52aee5c",
+      "name": "The Real VP",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/a1fe381135b64d9394a922c8c52aee5c/images/profile?aspect_ratio=1%3A1\u0026generated=1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=4dcdbc39-c933-4592-912b-e84a22a6b06e\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-07-20T04:10:52.23509Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "2c24dec779ac47dabc0e9e1f31620981",
+      "name": "AlcestisDefies_",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2c24dec779ac47dabc0e9e1f31620981/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=89ccf1d9-944f-464e-90f4-a26b9c6afaf6\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-08-07T01:43:12.744902Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "d02e500532ab4d46ab172281cd173790",
+      "name": "Vlach",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/d02e500532ab4d46ab172281cd173790/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=e8c773db-e945-4753-82e9-2c7a95adb907\u0026width=300"
+    }
+  },
+  {
+    "created": "2022-08-22T19:55:42.094428Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "be3bc152e977402790f37a5e13eb3b2f",
+      "name": "mohorney",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/be3bc152e977402790f37a5e13eb3b2f/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=5291cd1e-1753-48ba-8db1-576aaec28344\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-01-24T20:15:39.753081Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "ce277f66f02b46e482d46c2db6a12f44",
+      "name": "Vic",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/ce277f66f02b46e482d46c2db6a12f44/images/profile?aspect_ratio=1%3A1\u0026generated=1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=6ca59319-6d8f-4c8c-bf70-455ae49729b6\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-01-30T01:03:43.465231Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "8bcc0f8176344d178a4f42a69c31a1ea",
+      "name": "Ciara Mejia",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/8bcc0f8176344d178a4f42a69c31a1ea/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=f14602de-a34f-4c5e-ad7e-5fccfbb838af\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-02-14T05:48:01.474614Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": false,
+    "user": {
+      "id": "2bea6c6facf146cd816a4cf15d7a805b",
+      "name": "ccunderwood-us",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2bea6c6facf146cd816a4cf15d7a805b/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=88d11dd1-06d4-413a-b018-5236992d1706\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-02-14T05:48:01.474614Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": true,
+
+    "user": {
+      "id": "2c1709713b2440fcbac2543c035f09f6",
+      "name": "Nick",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2bea6c6facf146cd816a4cf15d7a805b/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=88d11dd1-06d4-413a-b018-5236992d1706\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-02-14T05:48:01.474614Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": true,
+    "user": {
+      "id": "7fad826cd12741a9a53807c0d14e02bc",
+      "name": "Mitch",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2bea6c6facf146cd816a4cf15d7a805b/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=88d11dd1-06d4-413a-b018-5236992d1706\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-02-14T05:48:01.474614Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": true,
+    "user": {
+      "id": "7fad826cd12741a9a53807c0d14e02bc",
+      "name": "Race Car Girl",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2bea6c6facf146cd816a4cf15d7a805b/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=88d11dd1-06d4-413a-b018-5236992d1706\u0026width=300"
+    }
+  },
+  {
+    "created": "2023-02-14T05:48:01.474614Z",
+    "isAdmin": false,
+    "isPlayer": true,
+    "leftLeague": true,
+    "user": {
+      "id": "5bebb8479f114b7d9d4a68dbaf36797e",
+      "name": "Jaret",
+      "profileImage": "https://musicleague-user-assets.b-cdn.net/users/2bea6c6facf146cd816a4cf15d7a805b/images/profile?aspect_ratio=1%3A1\u0026height=300\u0026optimizer=image\u0026quality=70\u0026v=88d11dd1-06d4-413a-b018-5236992d1706\u0026width=300"
+    }
+  }
+]

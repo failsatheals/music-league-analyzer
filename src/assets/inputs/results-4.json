@@ -1,0 +1,677 @@
+{
+  "standings": [
+    {
+      "pointsActual": 18,
+      "pointsPossible": 18,
+      "rank": 1,
+      "submission": {
+        "created": "2022-06-03T05:42:45.370548Z",
+        "submitterId": "efb464b96c64471884f24481b464aba7",
+        "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+        "comment": "Believe in the me that believes in you!",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-04T17:27:18.193836Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "00c2135305354a06a998955aa743ae5c",
+          "weight": 5
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T02:31:17.128191Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "2c1709713b2440fcbac2543c035f09f6",
+          "weight": 4
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:4d5UNhNKqwo4ejkHM3MSWf",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "pointsActual": 14,
+      "pointsPossible": 14,
+      "rank": 2,
+      "submission": {
+        "created": "2022-06-03T16:00:35.185103Z",
+        "submitterId": "de69b41ae2f248778a845ac74a123215",
+        "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+        "comment": "I firmly believe Warren Buffett gets hyped on this song before his annual Berkshire Hathaway Shareholders Meeting.",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-06T22:58:51.911695Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "bbe960c9e72b489f946a8a8f017dbc61",
+          "weight": 6
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T02:31:17.128191Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "2c1709713b2440fcbac2543c035f09f6",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T14:44:38.085723Z",
+          "spotifyUri": "spotify:track:3OIHgTyQdiAGMmpjQaNxp3",
+          "voterId": "919a710510ec440faf0b263e811276b4",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 11,
+      "pointsPossible": 11,
+      "rank": 3,
+      "submission": {
+        "created": "2022-05-31T19:41:13.420166Z",
+        "submitterId": "dc4956ecc3d24ab48d642968d737376f",
+        "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+        "comment": "",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-04T14:44:38.085723Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "919a710510ec440faf0b263e811276b4",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": -1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T02:31:17.128191Z",
+          "spotifyUri": "spotify:track:2Wi5ubKr8zSk8L3CLemyS4",
+          "voterId": "2c1709713b2440fcbac2543c035f09f6",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 10,
+      "pointsPossible": 10,
+      "rank": 4,
+      "submission": {
+        "created": "2022-05-31T19:45:30.576591Z",
+        "submitterId": "02b57fad4cd44b6a85196132e944468f",
+        "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+        "comment": "Anime: Neon Genesis Evangelion",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-04T17:27:18.193836Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "00c2135305354a06a998955aa743ae5c",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:3x4378ztiLvFmm2nuzEI0C",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "pointsActual": 10,
+      "pointsPossible": 10,
+      "rank": 5,
+      "submission": {
+        "created": "2022-06-01T19:40:59.210468Z",
+        "submitterId": "6230cf53e638454898f4da269f4bc6e6",
+        "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+        "comment": "",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "NUM_DOWNVOTERS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-04T14:44:38.085723Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "919a710510ec440faf0b263e811276b4",
+          "weight": 4
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:27:18.193836Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "00c2135305354a06a998955aa743ae5c",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:41tYgm5VUu1awE3Cp36LIm",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 9,
+      "pointsPossible": 9,
+      "rank": 6,
+      "submission": {
+        "created": "2022-06-01T22:07:16.577576Z",
+        "submitterId": "bbe960c9e72b489f946a8a8f017dbc61",
+        "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+        "comment": "",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-04T14:44:38.085723Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "919a710510ec440faf0b263e811276b4",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T02:31:17.128191Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "2c1709713b2440fcbac2543c035f09f6",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 8,
+      "pointsPossible": 8,
+      "rank": 7,
+      "submission": {
+        "created": "2022-06-01T22:40:49.113438Z",
+        "submitterId": "919a710510ec440faf0b263e811276b4",
+        "spotifyUri": "spotify:track:5JdSosNtbHn16vEGYKigA6",
+        "comment": "jokes on u if u downvoted this ur getting kicked",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:5JdSosNtbHn16vEGYKigA6",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:5JdSosNtbHn16vEGYKigA6",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:5JdSosNtbHn16vEGYKigA6",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:5JdSosNtbHn16vEGYKigA6",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "pointsActual": 7,
+      "pointsPossible": 7,
+      "rank": 8,
+      "submission": {
+        "created": "2022-05-31T19:52:38.527237Z",
+        "submitterId": "2c1709713b2440fcbac2543c035f09f6",
+        "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+        "comment": "Your mom’s favorite song",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 3
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:27:18.193836Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "00c2135305354a06a998955aa743ae5c",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-06T22:58:51.911695Z",
+          "spotifyUri": "spotify:track:3JjPqX5aNdzphYHZ31qR33",
+          "voterId": "bbe960c9e72b489f946a8a8f017dbc61",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 6,
+      "pointsPossible": 6,
+      "rank": 9,
+      "submission": {
+        "created": "2022-05-31T19:47:15.123559Z",
+        "submitterId": "00c2135305354a06a998955aa743ae5c",
+        "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+        "comment": "za warudo",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T23:13:03.758281Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "80194b9a8cc340a2b9b239eee820bfdf",
+          "weight": 2
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:52:57.949874Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "43156cf4121f4213995705f025325bc2",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T02:31:17.128191Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "2c1709713b2440fcbac2543c035f09f6",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:7lPjS6Yd4lRk4BsboDsm1H",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 3,
+      "pointsPossible": 3,
+      "rank": 10,
+      "submission": {
+        "created": "2022-05-31T21:27:03.593693Z",
+        "submitterId": "43156cf4121f4213995705f025325bc2",
+        "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+        "comment": "Attack On Titan ",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "TOTAL_POINTS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-06T22:58:51.911695Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "bbe960c9e72b489f946a8a8f017dbc61",
+          "weight": 4
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T14:44:38.085723Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "919a710510ec440faf0b263e811276b4",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T11:00:11.891661Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "6230cf53e638454898f4da269f4bc6e6",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": -1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": -1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:36:34.967229Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "02b57fad4cd44b6a85196132e944468f",
+          "weight": -1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-04T17:27:18.193836Z",
+          "spotifyUri": "spotify:track:6wsWRcafCkZhikEiyUs5b2",
+          "voterId": "00c2135305354a06a998955aa743ae5c",
+          "weight": -1
+        }
+      ]
+    },
+    {
+      "pointsActual": 3,
+      "pointsPossible": 3,
+      "rank": 11,
+      "submission": {
+        "created": "2022-06-01T15:22:09.953716Z",
+        "submitterId": "80194b9a8cc340a2b9b239eee820bfdf",
+        "spotifyUri": "spotify:track:7o6FWrcVC7NYygH8JKO0gH",
+        "comment": "Don't ask questions. Just embrace Jojo.",
+        "commentVisibility": ""
+      },
+      "submitterVoted": true,
+      "tieBreaker": "NUM_UPVOTERS",
+      "votes": [
+        {
+          "comment": "",
+          "created": "2022-06-05T01:18:35.213542Z",
+          "spotifyUri": "spotify:track:7o6FWrcVC7NYygH8JKO0gH",
+          "voterId": "efb464b96c64471884f24481b464aba7",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-08T16:19:41.225364Z",
+          "spotifyUri": "spotify:track:7o6FWrcVC7NYygH8JKO0gH",
+          "voterId": "de69b41ae2f248778a845ac74a123215",
+          "weight": 1
+        },
+        {
+          "comment": "",
+          "created": "2022-06-05T00:26:10.452587Z",
+          "spotifyUri": "spotify:track:7o6FWrcVC7NYygH8JKO0gH",
+          "voterId": "dc4956ecc3d24ab48d642968d737376f",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
